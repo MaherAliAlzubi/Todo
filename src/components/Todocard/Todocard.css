@@ -1,0 +1,13 @@
+.cardRow{
+    display: flex;
+    justify-content: space-between;
+}
+
+.leftCardRow{
+    display: flex;
+}
+
+.todocard{
+    margin:2% 5%;
+}
+

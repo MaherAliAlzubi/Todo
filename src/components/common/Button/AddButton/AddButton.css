@@ -1,0 +1,22 @@
+.addButton{
+    background-color: #0000FF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 20%;
+    border-radius: 6px 6px 6px 6px;
+}
+
+.circleIcon{
+    color: white;
+}
+
+.addButtonText{
+    color: white;
+    margin-left: 3%;
+}
+
+.addButton:hover{
+    cursor: pointer;
+    background-color: #0000d1;
+}
